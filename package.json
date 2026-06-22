@@ -1,0 +1,20 @@
+{
+  "name": "@pipeworx/mcp-data-calgary",
+  "version": "0.1.0",
+  "description": "DataCalgary MCP — Calgary open data (data.calgary.ca, Socrata SODA API).",
+  "type": "module",
+  "main": "src/index.ts",
+  "types": "src/index.ts",
+  "keywords": ["mcp", "mcp-server", "model-context-protocol", "pipeworx", "data-calgary"],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pipeworx-io/mcp-data-calgary"
+  },
+  "scripts": {
+    "typecheck": "tsc --noEmit"
+  },
+  "devDependencies": {
+    "typescript": "^5.7.0"
+  }
+}
