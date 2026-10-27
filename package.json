@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-data-calgary",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "description": "DataCalgary MCP — Calgary open data (data.calgary.ca, Socrata SODA API).",
   "type": "module",
   "main": "src/index.ts",
@@ -26,7 +26,7 @@
     "@cloudflare/workers-types": "^4.20260405.1"
   },
   "pipeworx": {
-    "sourceHash": "v1-798d0e88c65e08b3978cab69d4cf3ee54eb5aab686a2dadf68f5f0bebdd35624",
-    "sourceCommit": "01241619b78233fd55d0e3612331499a63f03ae7"
+    "sourceHash": "v1-568b56f0faa66b7be078abec2fccc433f2e3f90d37bb4ba460765f7157e55145",
+    "sourceCommit": "ba9dd6df5992aeb16ef2425ee86d1752c34ca636"
   }
 }
